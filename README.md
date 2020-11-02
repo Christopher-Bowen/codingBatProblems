@@ -1,2 +1,2 @@
 # codingBatProblems
-CodingBat Solutions for the problems
+This is a repository of the solutions to the problems on CodingBat.com
